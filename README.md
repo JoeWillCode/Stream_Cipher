@@ -6,4 +6,4 @@ This program was designed for Linux, and a makefile is provided for easy compili
 
 ./decrypt (password) (ciphertext) (plaintext)
 
-I have included a testing materials folder alongside the program files; it contains two text files from Project Gutenberg—the Odyssey for the average reader and Winnie the Pooh for those who prefer the finer texts. I have also provided an image of myself that can be used to encrypt and decrypt. Again, this program can be used for all files, so feel free to try it on your own if you like.
+I have included a testing materials folder alongside the program files; it contains two text files from Project Gutenberg—the Odyssey for the average reader and Winnie the Pooh for those who prefer the finer texts. I have also provided an image of myself to prove that even in this fleshy body I too can be securely encrypted. Again, this program can be used for all files, so feel free to try it on your own if you like.
